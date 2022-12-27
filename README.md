@@ -1,4 +1,4 @@
-# vue-noteballs
+# note-app_MEVN-stack
 
 This template should help get you started developing with Vue 3 in Vite and MEN stack
 
