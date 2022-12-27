@@ -9,15 +9,15 @@ This template should help get you started developing with Vue 3 in Vite and MEN 
 ## Project Setup
 
 ```backend and frontend derictory
-npm install
+npm install (backend and frontend derictory)
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```backend
-npm start (nodemon)
+npm start for backend(nodemon)
 ```
 
 ```frontend
-npm run dev
+npm run dev for frontend
 ```
